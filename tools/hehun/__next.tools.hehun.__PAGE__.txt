@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container article","children":[["$","span",null,{"className":"eyebrow","children":"感情工具"}],["$","h1",null,{"children":"八字合婚"}],["$","p",null,{"children":"合婚頁先上線佔位，今日目標是讓 Google 看到工具架構與 sitemap。下一版會加入雙方生日輸入、四柱對照、五行互補、十神關係與流年相處提醒。"}],["$","div",null,{"className":"grid2","children":[["$","div",null,{"className":"mini-card","children":[["$","h3",null,{"children":"會分析什麼？"}],["$","p",null,{"children":"雙方日主、夫妻宮、五行互補、十神互動、大運年份衝合。"}]]}],["$","div",null,{"className":"mini-card","children":[["$","h3",null,{"children":"現在可以先做什麼？"}],["$","p",null,{"children":"先各自排一個八字盤，記低日主、五行偏弱與大運年份。"}],["$","a",null,{"className":"button","href":"/free-bazi-mvp/bazi/","children":"先排八字"}]]}]]}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"15i1gZauCxcvnBBvrVbY2"}
+4:null

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container article","children":[["$","span",null,{"className":"eyebrow","children":"日主入門"}],["$","h1",null,{"children":"日主是什麼？"}],["$","p",null,{"children":"日主是日柱的天干，代表命盤裡的「自己」。所有十神都是以日主為中心推導，所以日主是八字分析的核心。"}],["$","p",null,{"children":"例如日主是庚金，就要看命盤中有多少金、土是否生金、火是否剋金、水木又如何泄耗或被金所剋。"}],["$","p",null,{"children":"分析日主不能只看一個字，要看月令季節、地支藏干、大運流年以及整體平衡。"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"15i1gZauCxcvnBBvrVbY2"}
+4:null

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container article","children":[["$","span",null,{"className":"eyebrow","children":"十神入門"}],["$","h1",null,{"children":"十神是什麼？"}],["$","p",null,{"children":"十神是八字入面用來描述「我」和其他五行關係的語言。日主代表自己，其他天干地支對日主產生生、剋、同類、我生、我剋等關係，就形成十神。"}],["$","p",null,{"children":"十神包括：比肩、劫財、食神、傷官、正財、偏財、正官、七殺、正印、偏印。"}],["$","p",null,{"children":"十神不是單獨看吉凶，而是看它在命盤中的位置、旺弱、是否被制化，以及大運流年何時引動。"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"15i1gZauCxcvnBBvrVbY2"}
+4:null

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container article","children":[["$","span",null,{"className":"eyebrow","children":"五行入門"}],["$","h1",null,{"children":"八字五行是什麼？"}],["$","p",null,{"children":"五行是木、火、土、金、水五種氣的分類。八字會把出生時間轉成四柱，每一柱有天干和地支，背後都有五行屬性。"}],["$","p",null,{"children":"分析五行時，要看數量、季節、藏干、通根、合沖刑害，不能只看表面有幾個字。"}],["$","ul",null,{"children":[["$","li",null,{"children":"木：生長、規劃、學習、人脈"}],["$","li",null,{"children":"火：表達、曝光、熱情、行動"}],["$","li",null,{"children":"土：穩定、信用、承載、流程"}],["$","li",null,{"children":"金：規則、效率、決斷、成交"}],["$","li",null,{"children":"水：資源、智慧、流動、彈性"}]]}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"15i1gZauCxcvnBBvrVbY2"}
+4:null

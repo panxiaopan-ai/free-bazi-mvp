@@ -1,0 +1,2 @@
+:HL["/free-bazi-mvp/_next/static/chunks/3se-5z15aei1a.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tools","param":null,"prefetchHints":0,"slots":{"children":{"name":"wuxing","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"15i1gZauCxcvnBBvrVbY2"}

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[38500,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js","/free-bazi-mvp/_next/static/chunks/05m0tyuvlxdz8.js"],"default"]
+3:I[97367,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"article","children":[["$","span",null,{"className":"eyebrow","children":"核心工具"}],["$","h1",null,{"children":"免費八字排盤"}],["$","p",null,{"children":"這頁是本站 P0 核心頁。先把四柱、五行、十神、大運跑通，之後再加更完整的事業、財運、感情與流年解讀。"}]]}],["$","$L2",null,{"compact":true}]]}]}],[["$","script","script-0",{"src":"/free-bazi-mvp/_next/static/chunks/05m0tyuvlxdz8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"15i1gZauCxcvnBBvrVbY2"}
+5:null

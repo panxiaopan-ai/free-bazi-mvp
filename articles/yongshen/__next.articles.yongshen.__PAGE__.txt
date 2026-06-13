@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/free-bazi-mvp/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container article","children":[["$","span",null,{"className":"eyebrow","children":"八字入門"}],["$","h1",null,{"children":"喜用神是什麼？"}],["$","p",null,{"children":"喜用神是八字解讀入面最容易被誤解的一步。很多人以為五行缺木就補木、缺水就補水，但實際要先看日主強弱、月令季節、四柱組合、格局和大運。"}],["$","p",null,{"children":"簡單講，用神是命盤裡最需要被扶助或調候的力量；喜神是對用神有幫助的五行。它不一定等於缺少的五行。"}],["$","h2",null,{"children":"第一版工具點樣處理？"}],["$","p",null,{"children":"本站 P0 先排出四柱、十神、五行分佈與大運，不直接作絕對判斷。後續會加入可追溯的規則庫，再逐步生成更完整的用神分析。"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"15i1gZauCxcvnBBvrVbY2"}
+4:null
