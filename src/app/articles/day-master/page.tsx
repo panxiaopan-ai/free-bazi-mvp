@@ -1,0 +1,2 @@
+export const metadata = { title: '日主是什麼｜八字命盤核心', description: '日主是八字命盤中代表自己的天干，是十神、五行和喜用神分析的中心。' };
+export default function Page(){return <main className="section"><div className="container article"><span className="eyebrow">日主入門</span><h1>日主是什麼？</h1><p>日主是日柱的天干，代表命盤裡的「自己」。所有十神都是以日主為中心推導，所以日主是八字分析的核心。</p><p>例如日主是庚金，就要看命盤中有多少金、土是否生金、火是否剋金、水木又如何泄耗或被金所剋。</p><p>分析日主不能只看一個字，要看月令季節、地支藏干、大運流年以及整體平衡。</p></div></main>}

@@ -1,0 +1,2 @@
+export const metadata = { title: '喜用神是什麼｜八字入門', description: '喜用神不是缺什麼補什麼，而是根據日主、月令、五行力量與格局取平衡。' };
+export default function Page(){return <main className="section"><div className="container article"><span className="eyebrow">八字入門</span><h1>喜用神是什麼？</h1><p>喜用神是八字解讀入面最容易被誤解的一步。很多人以為五行缺木就補木、缺水就補水，但實際要先看日主強弱、月令季節、四柱組合、格局和大運。</p><p>簡單講，用神是命盤裡最需要被扶助或調候的力量；喜神是對用神有幫助的五行。它不一定等於缺少的五行。</p><h2>第一版工具點樣處理？</h2><p>本站 P0 先排出四柱、十神、五行分佈與大運，不直接作絕對判斷。後續會加入可追溯的規則庫，再逐步生成更完整的用神分析。</p></div></main>}

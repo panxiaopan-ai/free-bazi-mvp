@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panxiaopan-ai.github.io/free-bazi-mvp/sitemap.xml

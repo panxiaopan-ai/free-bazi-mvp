@@ -1,0 +1,2 @@
+export const metadata = { title: '十神是什麼｜比肩劫財食神傷官正財偏財正官七殺正印偏印', description: '十神是八字中以日主為中心，看其他天干地支和自己的關係。' };
+export default function Page(){return <main className="section"><div className="container article"><span className="eyebrow">十神入門</span><h1>十神是什麼？</h1><p>十神是八字入面用來描述「我」和其他五行關係的語言。日主代表自己，其他天干地支對日主產生生、剋、同類、我生、我剋等關係，就形成十神。</p><p>十神包括：比肩、劫財、食神、傷官、正財、偏財、正官、七殺、正印、偏印。</p><p>十神不是單獨看吉凶，而是看它在命盤中的位置、旺弱、是否被制化，以及大運流年何時引動。</p></div></main>}

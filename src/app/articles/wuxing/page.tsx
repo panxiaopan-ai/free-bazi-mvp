@@ -1,0 +1,2 @@
+export const metadata = { title: '八字五行是什麼｜木火土金水入門', description: '了解八字五行木火土金水在命盤中的角色，以及為何不能只看缺哪一個五行。' };
+export default function Page(){return <main className="section"><div className="container article"><span className="eyebrow">五行入門</span><h1>八字五行是什麼？</h1><p>五行是木、火、土、金、水五種氣的分類。八字會把出生時間轉成四柱，每一柱有天干和地支，背後都有五行屬性。</p><p>分析五行時，要看數量、季節、藏干、通根、合沖刑害，不能只看表面有幾個字。</p><ul><li>木：生長、規劃、學習、人脈</li><li>火：表達、曝光、熱情、行動</li><li>土：穩定、信用、承載、流程</li><li>金：規則、效率、決斷、成交</li><li>水：資源、智慧、流動、彈性</li></ul></div></main>}
